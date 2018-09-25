@@ -58,16 +58,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Binny Mathew"
-  role = "Ph.D. Scholar in the Computer Science and Engineering Department"
+  role = "Ph.D. Scholar"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "IIT Kharagpur", url = "cse.iitkgp.ac.in/" } ]
+  organizations = [ { name = "IIT Kharagpur", url = "\\http://cse.iitkgp.ac.in/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "binnymathew@iitkgp.ac.in"
-  address = "A-205, Cnerg Lab, CSE Dept, IIT Kharagpur, Medinipur, West Bengal, India"
+  address = "205, Cnerg Lab, CSE Dept, IIT Kharagpur, Medinipur, West Bengal, India"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "888 888 88 88"
   # skype = "echo123"
@@ -227,12 +227,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:test@example.org"
+    link = "binnymathew@iitkgp.ac.in"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://twitter.com/_BinnyM"
 
   [[params.social]]
     icon = "google-scholar"
