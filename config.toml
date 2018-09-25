@@ -244,6 +244,21 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://github.com/binny-mathew"
 
+  [[params.social]]
+    icon = "arxiv"
+    icon_pack = "ai"
+    link = "https://arxiv.org/search/?query=binny+mathew&searchtype=author"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Binny_Mathew3"
+
+  [[params.social]]
+    icon = "dblp"
+    icon_pack = "ai"
+    link = "https://dblp.uni-trier.de/pers/hd/m/Mathew:Binny"
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
