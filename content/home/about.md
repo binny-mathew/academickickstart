@@ -19,17 +19,17 @@ weight = 5
 [[education.courses]]
   course = "PhD in Social Computing"
   institution = "Indian Institute of Technology, Kharagpur"
-  year = 2016 -- 
+  year = "2016 -- Present" 
 
 [[education.courses]]
   course = "MTech Computer Science"
   institution = "Indian Institute of Technology, Kharagpur"
-  year = 2014 -- 2016
+  year = 2016
 
 [[education.courses]]
   course = "BTech Computer Science"
   institution = "Rajiv Gandhi Institute of Technology, Kottayam"
-  year = 2008 -- 2012
+  year = 2012
  
 +++
 
