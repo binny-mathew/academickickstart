@@ -227,7 +227,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "binnymathew@iitkgp.ac.in"
+    link = "mailto:binnymathew@iitkgp.ac.in"
 
   [[params.social]]
     icon = "twitter"
