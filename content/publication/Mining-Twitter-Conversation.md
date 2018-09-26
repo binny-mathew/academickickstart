@@ -1,10 +1,10 @@
 +++
-title = "Adapting predominant and novel sense discovery algorithms for identifying corpus-specific sense differences"
-date = 2017-08-03
+title = "Mining Twitter Conversations around E-commerce Promotional Events"
+date = 2016-02-27
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Binny Mathew", "Suman Kalyan Maity", "Pratip Sarkar", "Animesh Mukherjee", "Pawan Goyal"]
+authors = ["Binny Mathew", "Unni Krishnan T.A", "Tanmoy Chakraborty", "Niloy Ganguly", "Samik Datta"]
 
 # Publication type.
 # Legend:
@@ -19,16 +19,14 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Word senses are not static and may have temporal, spatial or corpus-specific scopes. Identifying such scopes might benefit the existing WSD systems largely. In this paper, while studying corpus specific word senses, we adapt three existing predominant and novel-sense discovery algorithms to identify these corpus-specific senses. We make use of text data available in the form of millions of digitized books and newspaper archives as two different sources of corpora and propose automated methods to identify corpus-specific word senses at various time points. We conduct an extensive and thorough human judgment experiment to rigorously evaluate and compare the performance of these approaches. Post adaptation, the output of the three algorithms are in the same format and the accuracy results are also comparable, with roughly 45-60% of the reported corpus-specific senses being judged as genuine."
-
+abstract = "With Social Media platforms establishing themselves as the de facto destinations for their customersâ views and opinions, brands around the World are investing heavily on invigorating their customer connects by utilizing such platforms to their fullest. In this paper, we develop a novel technique for mining conversations in Twitter by weaving together all conversations around an event into one unified graph (Conversation Graph, henceforth). The structure of the Conversation Graph emerges as a variant of the BOWTIE structure (dubbed ASKEWBOWTIE henceforth) as a result of the complex communication patterns amongst these players. Finally, we investigate the structural properties of the ASKEWBOWTIE structure to understand the configuration of the components and their temporal evolution."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "adapting_sense.png"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -68,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "adapting_sense.png"
-caption = ""
+image = "bowtie.png"
+caption = "ASKEW BOW TIE"
 
 +++
