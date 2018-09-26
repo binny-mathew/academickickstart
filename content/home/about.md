@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-Binny is a Ph.D. Scholar at the Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur from June, 2016. He is working under the supervision of <a href="http://cse.iitkgp.ac.in/~animeshm/">Prof. Animesh Mukherjee</a> and <a href="http://cse.iitkgp.ac.in/~pawang/">Prof. Pawan Goyal</a>. His research involves studying and analysing the language dynamics of online social media. He is a member of the Complex Network Research Group(CNeRG) as well.
+Binny is a Ph.D. Scholar at the Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur from June, 2016. He is working under the supervision of <a href="http://cse.iitkgp.ac.in/~animeshm/" target = "_blank">Prof. Animesh Mukherjee</a> and <a href="http://cse.iitkgp.ac.in/~pawang/" target = "_blank">Prof. Pawan Goyal</a>. His research involves studying and analysing the language dynamics of online social media. He is a member of the Complex Network Research Group(CNeRG) as well.
